@@ -22,5 +22,10 @@ public class Testng1 {
 		System.out.println("THIS IS A 3nd TESTNG CLASS FOR DEMO");
 		
 	}
+	@Test
+	public static void method5() {
+		System.out.println("THIS IS A 5th TESTNG CLASS FOR DEMO");
+		
+	}
 
 }
